@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "installing jekyll"
+date:   2014-08-09 11:11:28
+categories: jekyll update
+---
+
+gem install jekyll
+
+
+==creating new application
+
+jekyll new appname
+
+== start server
+jekyll serve  # run on port 400 defaultly
